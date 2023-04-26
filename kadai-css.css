@@ -5,17 +5,17 @@ header {
 }
 
 #main {
+  float: left;
   background-color: #ccffcc;
   width: 700px;
   height: 600px;
-  float: left;
 }
 
 #menu {
+  float: right;
   background-color: #ccccff;
   width: 300px;
   height: 600px;
-  float: right;
 }
 
 footer {
