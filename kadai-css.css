@@ -1,4 +1,9 @@
 @charset "UTF-8";
+html, body {
+  width: 1000px;
+  margin: 0 auto;
+}
+
 header {
   background-color: #ffcccc;
   width: 1000px;
